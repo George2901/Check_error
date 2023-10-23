@@ -1,3 +1,3 @@
-module Check_error
+module check_error
 
 go 1.19
